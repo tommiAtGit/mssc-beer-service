@@ -1,0 +1,10 @@
+com/myjava/msscbeerservice/web/model/BeerStyleEnum.class
+com/myjava/msscbeerservice/bootstrap/BeerLoader.class
+com/myjava/msscbeerservice/domain/Beer.class
+com/myjava/msscbeerservice/web/controller/BeerController.class
+com/myjava/msscbeerservice/domain/Beer$BeerBuilder.class
+com/myjava/msscbeerservice/web/model/BeerDto.class
+com/myjava/msscbeerservice/MsscBeerServiceApplication.class
+com/myjava/msscbeerservice/web/model/BeerPagedList.class
+com/myjava/msscbeerservice/web/model/BeerDto$BeerDtoBuilder.class
+com/myjava/msscbeerservice/repositories/BeerRepository.class
