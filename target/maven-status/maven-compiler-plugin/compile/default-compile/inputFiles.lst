@@ -1,7 +1,10 @@
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/MsscBeerServiceApplication.java
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/bootstrap/BeerLoader.java
+/Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/mappers/BeerMapper.java
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/domain/Beer.java
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/controller/BeerController.java
+/Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/controller/MvcExceptionHandler.java
+/Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/mappers/DateMapper.java
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/model/BeerDto.java
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/model/BeerPagedList.java
 /Users/tommikorteikko/Projects/microserviceStudy/mssc-beer-service/src/main/java/com/myjava/msscbeerservice/web/model/BeerStyleEnum.java
